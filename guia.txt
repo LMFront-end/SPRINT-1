@@ -1,0 +1,25 @@
+/*import url fonts*/
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400&family=IBM+Plex+Sans:wght@100;200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&display=swap');
+
+/*fonts*/
+
+ :root {
+    --font-IMBPXMono: 'IBM Plex Mono', monospace;
+    --font-IBMPSans: 'IBM Plex Sans', sans-serif;
+    --font-IBMButton: 'IBM Plex Mono', monospace;
+}
+
+
+/*Colors*/
+
+ :root {
+    --Colorprimary: #060A24;
+    --ColorPrincipal: #ffff;
+    --ColorHover: #00F3BB;
+    --Colordot: #0000EC;
+    --ColorBttnormal: #00F3BB;
+    --ColorBttHover: linear-gradient(225deg, #0000FE 0%, #00F0B8 100%);
+}
